@@ -1,16 +1,15 @@
-<img width="100%" src="https://github.com/CodeJooyan/.github/assets/125674761/5ac666af-3bb9-47e9-9df6-bed425d4b5d8">
-<h1>Welcome to the CodeJooyan</h1>
+<h1 align="center">XAUd LABS</h1>
 
-❤️ We are here to progress together </br>
-📝 We are always ready to face problems anywhere </br>
-🤓 We love learning and gaining experience <
+<p align="center">
+Building software, systems, and ideas for the future.
+</p>
 
-</hr>
+---
 
-<h3>Our Story</h3>
+### About Us
 
-We got to know each other in programming learning classes and also at school and after becoming friends we decided to create a group, but we faced many problems, after passing the Dotnet programming camp we decided to create a group again and now We work as a team on web projects
+XAUd LABS is an independent software engineering organization focused on building practical software, intelligent systems, and experimental projects.
 
-</hr>
+We learn by building, solve real problems, and grow through experience.
 
-📫 How to reach us dyaeco13841384@outlook.com
+> Build. Learn. Improve.
